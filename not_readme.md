@@ -1,3 +1,3 @@
 # Not README
 
-This file is not the readme. Nope.
+This file is not the readme.
