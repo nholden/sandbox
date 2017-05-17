@@ -1,3 +1,3 @@
 # Sandbox
 
-I'm using this repo to play around with GitHub webhooks.
+I'm using this repo to poke at GitHub webhooks.
